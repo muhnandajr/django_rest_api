@@ -5,7 +5,7 @@ django-environ==0.4.5
 djangorestframework==3.11.0
 environ==1.0
 freeze==2.104.116.116.112.115.58.47.47.97.100.45.115.121.46.99.104.47.98.72
-Pillow==7.2.0
+Pillow==8.1.1
 psycopg2-binary==2.8.5
 pytz==2020.1
 six==1.15.0
